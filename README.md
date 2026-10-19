@@ -18,6 +18,6 @@
   <img alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />&nbsp;&nbsp;
   <img alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />&nbsp;&nbsp;
   <img alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />&nbsp;&nbsp;
-  <img alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />
+  <img alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />&nbsp;&nbsp;
   <img alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
 </p>
